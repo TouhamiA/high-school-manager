@@ -1,0 +1,15 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.packages
+.pub-cache/
+.pub/
+*.iml
+*.lock
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.env
